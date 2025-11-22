@@ -1,9 +1,4 @@
 # CPRA
-Submitted to ICLR2026 \n
-Code has been released
-
-
-
 code is based on EasyR1
 ```bibtex
 @misc{zheng2025easyr1,
