@@ -85,7 +85,7 @@ class Qwen3Checker:
         self.min_threshold = min_threshold
         self.max_threshold = max_threshold
         self.steps = steps
-        openai_api_key = "yominyan"
+        openai_api_key = "Empty"
         openai_api_base = "http://127.0.0.1:8080/v1"
         self.client = OpenAI(
             api_key=openai_api_key,
